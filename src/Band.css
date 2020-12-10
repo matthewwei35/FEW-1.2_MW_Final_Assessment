@@ -1,0 +1,9 @@
+.Band {
+  padding: 2em 1em;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.Band > p {
+  font-style: italic;
+}

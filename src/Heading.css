@@ -1,0 +1,8 @@
+.Heading {
+  background-color: #1a1b1d;
+  color: rgb(240, 235, 228);
+}
+
+.Heading > h1 {
+  margin: 0;
+}
