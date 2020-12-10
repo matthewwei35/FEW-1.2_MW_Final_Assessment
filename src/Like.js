@@ -29,4 +29,4 @@ class Like extends Component {
   }
 }
 
-export default Like
+export default Like;

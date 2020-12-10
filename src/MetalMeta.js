@@ -11,4 +11,4 @@ function MetalMeta() {
   )
 }
 
-export default MetalMeta 
+export default MetalMeta;
