@@ -9,7 +9,7 @@ function Band(props) {
       <p>Formed: {formed}</p>
       <p>{origin}</p>
       <p>Fans: {fans}</p>
-      <p>Split: {split}</p>
+      <p><b>Split: {split}</b></p>
     </div>
   )
 }
